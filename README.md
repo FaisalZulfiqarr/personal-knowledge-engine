@@ -1,4 +1,4 @@
-# Personal Knowledge Assistant (PKA)
+# Personal Knowledge Engine (PKE)
 
 A full-stack application that ingests notes, PDFs, books, or research papers and allows you to query them using an Ollama LLM model.
 
